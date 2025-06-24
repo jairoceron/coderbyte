@@ -15,7 +15,7 @@ int main()
  * @author jairo ceron jairoceron@gmail.com
  */
 
-    int arrCoin[6] = {9, 7, 5, 3, 2, 1};
+    int arrCoin[6] = {11,9, 7, 5,  1};
     int num = 196;
    // num = 8;
      num = 25;
@@ -24,7 +24,7 @@ int main()
 
     std::cout << " input " << num << " " << std::endl;
 
-    for (int i = 0; i < 6; i++)
+    for (int i = 0; i < 5; i++)
     {
 
         coint = 0;
